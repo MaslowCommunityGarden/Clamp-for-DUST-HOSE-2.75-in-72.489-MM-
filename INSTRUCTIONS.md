@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=mt2JFI3vJso
 All files are available in ONSHAPE:
 https://cad.onshape.com/documents/c3ab435f61bcc21bbd556cac/w/c1cbaf26518b004a9ae82ac1/e/3198fb38a1df3692237814ab
 
+Correction: I re-measured. The diameter of the dust hose clamp is 2.854 (72.489 mm) inches not 2.75.
 
 
 
